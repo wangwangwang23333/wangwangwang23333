@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://avatars.githubusercontent.com/u/51786731?s=400&u=05a7d3e754ab9c52525df2ec748e83345ce6a3c3&v=4" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
+<img src="https://avatars.githubusercontent.com/u/51786731?s=400&u=05a7d3e754ab9c52525df2ec748e83345ce6a3c3&v=4" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" /> 
 
 大家好，俺是汪汪汪
 
@@ -12,5 +12,5 @@
 - 📫 个人邮箱：1209497940@qq.com
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wangwangwang23333&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=wangwangwang23333&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
