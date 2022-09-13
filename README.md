@@ -10,7 +10,7 @@
 
 ## Visitor Count
 
-[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/wangwangwang23333)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/wangwangwang23333)](https://github.com/wangwangwang23333/steins-gate-visitor-count)
 
 ## Project Introduction
 
